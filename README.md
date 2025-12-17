@@ -1,7 +1,7 @@
-3rd Year Computer Science Co-op Internship Student at UofT | Proficient in Java, Python, Swift | Experience in Software Development, Machine Learning, and Mobile Apps
+3rd Year Computer Science Co-op Internship Student at UofT | Proficient in Java, Python, C, Swift | Experience in Software Development, Machine Learning, and Mobile Apps
 - 👋 Hi, I’m @Doomaloom
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning C and Bash Scripting
+- 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on Software Solutions and other development tools
 - 📫 How to reach me: frankkocun@gmail.com
 <!---
