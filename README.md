@@ -103,7 +103,7 @@ Tech: Go, React (Vite), Supabase, LaTeX, Gemini API
 ## 📫 Connect
 
 GitHub: https://github.com/Doomaloom  
-LinkedIn: https://www.linkedin.com/in/frank-kocun/
+LinkedIn: https://www.linkedin.com/in/frank-kocun/ \
 E-mail: frankkocun@gmail.com
 
 ---
